@@ -3,7 +3,7 @@ package Strings;
 import java.util.HashMap;
 import java.util.Map;
 
-class IsomorphicStrings{
+class IsomorphicStrings {
     public boolean isIsomorphic(String s, String t) {
 
         Map<Character, Character> sToTMap = new HashMap<>();
