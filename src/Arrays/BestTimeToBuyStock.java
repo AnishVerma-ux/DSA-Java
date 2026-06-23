@@ -1,6 +1,6 @@
 package Arrays;
 
-public class BestTimeToBuyStockg {
+public class BestTimeToBuyStock{
 
     public static int maxProfit(int[] prices) {
 
