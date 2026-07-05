@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1068-product-sales-analysis-i) |
 <!---LeetCode Topics End-->
