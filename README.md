@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
