@@ -61,4 +61,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
+| [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
+## String
+|  |
+| ------- |
+| [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
 <!---LeetCode Topics End-->
