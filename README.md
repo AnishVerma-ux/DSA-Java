@@ -78,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
