@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0045-jump-game-ii) |
+| [0051-n-queens](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1291-sequential-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
