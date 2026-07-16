@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -87,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0051-n-queens) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
