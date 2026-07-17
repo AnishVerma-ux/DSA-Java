@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0704-binary-search) |
 ## Database
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0069-sqrtx) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
