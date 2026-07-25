@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0118-pascals-triangle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0704-binary-search) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0045-jump-game-ii) |
+| [0118-pascals-triangle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0118-pascals-triangle) |
 ## Greedy
 |  |
 | ------- |
