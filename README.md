@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0119-pascals-triangle-ii) |
 ## Greedy
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
