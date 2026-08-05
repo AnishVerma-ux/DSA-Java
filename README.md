@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0322-coin-change) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -176,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0322-coin-change) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
