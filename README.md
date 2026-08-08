@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0119-pascals-triangle-ii) |
 | [0322-coin-change](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0322-coin-change) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
