@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0326-power-of-three) |
 | [0384-shuffle-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0384-shuffle-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0877-stone-game) |
@@ -219,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
