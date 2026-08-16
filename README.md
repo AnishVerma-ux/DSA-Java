@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0119-pascals-triangle-ii) |
+| [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -52,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -250,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
