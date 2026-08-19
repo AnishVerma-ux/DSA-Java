@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0877-stone-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1920-build-array-from-permutation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0045-jump-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 ## Math
 |  |
 | ------- |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
