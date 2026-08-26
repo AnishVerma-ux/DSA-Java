@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0070-climbing-stairs) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0038-count-and-say](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0242-valid-anagram) |
 | [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0141-linked-list-cycle) |
@@ -298,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0141-linked-list-cycle) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
