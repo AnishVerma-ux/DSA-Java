@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0038-count-and-say) |
 | [0242-valid-anagram](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0242-valid-anagram) |
+| [0443-string-compression](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0443-string-compression) |
 | [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0141-linked-list-cycle) |
+| [0443-string-compression](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0443-string-compression) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
