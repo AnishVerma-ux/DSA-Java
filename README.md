@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0682-baseball-game) |
 | [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0232-implement-queue-using-stacks) |
 | [0384-shuffle-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0384-shuffle-an-array) |
 ## Queue
