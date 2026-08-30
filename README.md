@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0443-string-compression) |
 | [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -203,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0104-maximum-depth-of-binary-tree) |
