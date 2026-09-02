@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1068-product-sales-analysis-i) |
+| [1280-students-and-examinations](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1280-students-and-examinations) |
 ## Dynamic Programming
 |  |
 | ------- |
