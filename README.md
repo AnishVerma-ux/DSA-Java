@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0365-water-and-jug-problem) |
 | [0384-shuffle-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0384-shuffle-an-array) |
@@ -281,10 +282,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0326-power-of-three) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0231-power-of-two) |
 | [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
