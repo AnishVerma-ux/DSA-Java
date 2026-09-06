@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1528-shuffle-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1528-shuffle-string) |
+| [1672-richest-customer-wealth](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
+| [1672-richest-customer-wealth](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
