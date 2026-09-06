@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0322-coin-change](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0347-top-k-frequent-elements) |
 | [0384-shuffle-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0384-shuffle-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0704-binary-search) |
 ## Database
 |  |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Recursion
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0503-next-greater-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
