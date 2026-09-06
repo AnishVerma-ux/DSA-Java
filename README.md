@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
+| [1528-shuffle-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1920-build-array-from-permutation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0443-string-compression) |
+| [1528-shuffle-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
 | [1927-sum-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
