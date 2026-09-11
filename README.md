@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2073-time-needed-to-buy-tickets) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3912-valid-elements-in-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3912-valid-elements-in-an-array) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0326-power-of-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3483-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
