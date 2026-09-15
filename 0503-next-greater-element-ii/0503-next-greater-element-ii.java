@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
 
@@ -8,17 +6,18 @@ class Solution {
         int[] ans = new int[n];
         Arrays.fill(ans, -1);
 
-        Stack<Integer> stack = new Stack<>();
+        Deque<Integer> stack = new ArrayDeque<>();
 
         for (int i = 0; i < 2 * n; i++) {
 
             int index = i % n;
 
-            while (!stack.isEmpty() &&
-                   nums[index] > nums[stack.peek()]) {
+            while (!stack.isEmpty()
+                    && nums[index] > nums[stack.peek()]) {
 
-                int prevIndex = stack.pop();
-                ans[prevIndex] = nums[index];
+                int prev = stack.pop();
+
+                ans[prev] = nums[index];
             }
 
             if (i < n) {
