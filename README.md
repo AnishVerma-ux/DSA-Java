@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## String
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1528-shuffle-string) |
 | [1544-make-the-string-great](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1544-make-the-string-great) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
@@ -410,4 +412,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
