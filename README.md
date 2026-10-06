@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0856-score-of-parentheses) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0148-sort-list) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
