@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0365-water-and-jug-problem) |
 | [0384-shuffle-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0384-shuffle-an-array) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0628-maximum-product-of-three-numbers](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1927-sum-game) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
 | [0242-valid-anagram](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0443-string-compression](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0443-string-compression) |
 | [0844-backspace-string-compare](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0856-score-of-parentheses) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0231-power-of-two) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0476-number-complement) |
 | [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AnishVerma-ux/DSA-Java/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
