@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0365-water-and-jug-problem) |
 | [0384-shuffle-an-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0384-shuffle-an-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1927-sum-game) |
 ## Knapsack Problem
@@ -481,4 +483,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
