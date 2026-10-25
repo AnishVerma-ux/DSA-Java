@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0977-squares-of-a-sorted-array) |
+| [1254-number-of-closed-islands](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1386-cinema-seat-allocation) |
 | [1528-shuffle-string](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1528-shuffle-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0079-word-search) |
+| [1254-number-of-closed-islands](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [1672-richest-customer-wealth](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0207-course-schedule) |
 | [0365-water-and-jug-problem](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0365-water-and-jug-problem) |
+| [1254-number-of-closed-islands](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnishVerma-ux/DSA-Java/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0365-water-and-jug-problem) |
+| [1254-number-of-closed-islands](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -511,4 +515,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AnishVerma-ux/DSA-Java/tree/master/0292-nim-game) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/AnishVerma-ux/DSA-Java/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
